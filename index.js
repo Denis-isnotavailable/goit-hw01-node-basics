@@ -1,5 +1,4 @@
 const contacts = require("./contacts");
-// const argv = require("yargs").argv;
 
 const { Command } = require("commander");
 const program = new Command();
